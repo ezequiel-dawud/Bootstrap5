@@ -6,3 +6,16 @@
     width: 325px;
     
 }
+
+.botao-lilaz{
+    background-color: #9353ff;
+    color: white;
+}
+
+.botao-lilaz:hover{
+    background-color: #daff01;
+}
+
+.cor-verde{
+    color: #daff01;
+}
